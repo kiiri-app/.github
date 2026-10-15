@@ -25,6 +25,7 @@
 |---|---|
 | 🐾 **[kiiri](https://github.com/kiiri-app/kiiri)** | The desktop app. Electron, MIT. macOS · Windows · Linux |
 | 🔌 **MCP server** | Ships inside the app. Lets Claude Code, Cursor, Codex and any MCP client make Kiiri talk, point, react or look at your screen |
+| 🛰️ **[kiiri-proxy](https://github.com/kiiri-app/kiiri-proxy)** | Self-hosted AI proxy. Your keys on your own Cloudflare Worker, one token per device |
 | 🎨 **[kiiri-web](https://github.com/kiiri-app/kiiri-web)** | kiiri.app, the press kit and brand assets |
 
 **Open source, local first.** Everything that runs on your machine is free. Use your own API key, or run fully local with Ollama.
